@@ -2,6 +2,10 @@
     --fundo:	#DC143C;
     --cor-frente:#FF8C00;
     --cor-verso: #E6E6FA;
-    --destque
-
+    --destque:	#ADFF2F;
+    --preto: #000000;
+    --braco:#ffffff;
+}
+body{
+    background-color: var(--fundo);
 }
