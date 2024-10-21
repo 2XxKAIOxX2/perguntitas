@@ -36,3 +36,13 @@ footer{
     height: 100%;
     text-align: center;
 }
+.conteudo-cartao h3{
+    border: 1px solid var(--destque);
+    border-radius: 6rem;
+    color: var(--destque);
+    padding: 0.5rem;
+    margin: 0.5rem;
+    position: absolute;
+    text-align: left;
+    font-size: 1.2vw;
+}
