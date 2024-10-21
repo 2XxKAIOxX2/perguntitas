@@ -5,6 +5,8 @@
     --destque:	#ec1313;
     --preto: #000000;
     --braco:#ffffff;
+    --parte-de-baixo: #b4ff28;
+
 }
 body{
     background-color: var(--fundo);
@@ -13,7 +15,7 @@ body{
 footer{
     position: fixed;
     bottom: 0;
-    background-color: var(--destque);
+    background-color: var(--parte-de-baixo);
     color: var(--preto);
     width: 100%;
     text-align: center;
