@@ -60,6 +60,9 @@ footer{
 .respotas-cartao{
     font-weight: 700;
     color: var(--destque);
+    background-color: var(--cor-verso);
+    border: 2px solid var(--destque);
+    transform: rotateY(180deg);
 }
 
 .cartao:hover  .conteudo-cartao{
