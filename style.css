@@ -6,6 +6,7 @@
     --preto: #000000;
     --braco:#ffffff;
     --parte-de-baixo: #b4ff28;
+    --materia: #ff0707;
 
 }
 body{
@@ -41,9 +42,9 @@ footer{
     transition: transform 300ms ease-in-out;
 }
 .conteudo-cartao h3{
-    border: 1px solid var(--destque);
+    border: 1px solid var(--materia);
     border-radius: 6rem;
-    color: var(--destque);
+    color: var(--materia);
     padding: 0.5rem;
     margin: 0.5rem;
     position: absolute;
