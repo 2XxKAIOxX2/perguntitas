@@ -35,3 +35,7 @@ footer{
     gap: 3rem;
     padding: 4rem;
 }
+.cartao{
+    background-color: var(--cor-frente);
+    padding: 40px;
+}
