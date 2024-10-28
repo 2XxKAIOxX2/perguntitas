@@ -14,7 +14,7 @@ body{
     margin: 0%;
 }
 header{
-    background-color: var(--preto);
+    background-color: var(--parte-de-baixo);
     display: flex;
     justify-content: space-around;
     padding: 2rem;
