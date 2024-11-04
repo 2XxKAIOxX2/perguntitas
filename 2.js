@@ -16,7 +16,7 @@ function criaCartao(categoria, pergunta, resposta){
     container.appendChild(cartao)
 }
 function viraCartao(card){
-const resposta=card.querySelection('.respotas-cartao');
+const resposta=card.querySelector('.respotas-cartao');
 if(resposta.style.display==='none'){
 resposta.style.display='block';
 }
