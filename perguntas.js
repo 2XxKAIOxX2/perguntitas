@@ -1,7 +1,7 @@
 criaCartao(
  'Bolo de Chocolate',
  '3 ovos, açúcar e 1/2 xícara (chá) de açúcar, farinha de trigo, 2 xícaras (chá) de farinha de trigo, chocolate em pó, 1 xícara (chá) de chocolate em pó ou achocolatado, 1/2 xícara (chá) de óleo, 1 colher (sopa) de fermento em pó, 1 pitada de sal, 1 xícara (chá) de água quente'
-'<img src="bolo.jpeg" alt="bolo.jpeg">')
+)
     criaCartao(
     'Historia',
     ' 2) Qual foi o estopim da primeira Guerra Mundial',
