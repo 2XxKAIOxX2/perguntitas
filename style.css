@@ -86,3 +86,6 @@ footer{
     height: 100%;
     width: 100%;
 }
+.title{
+ justify-content: center;
+}
