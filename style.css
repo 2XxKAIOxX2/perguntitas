@@ -42,7 +42,7 @@ footer{
 }
 .moranguinho{
     display: flex;
-    justify-content: center;
-    align-items: center;
+margin-left: 50%;
+margin-top: 50px;
     height: 100px;
 }
