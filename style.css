@@ -34,9 +34,8 @@ footer{
  justify-content: center;
 }
 .bolo{
+    margin-top: 50px;
+    margin-left: 50px;
     height: 200px;
     width: 200px;
-    margin-left:45% ;
-    margin-right: 45%;
-    margin-top: 10%;
 }
